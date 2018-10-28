@@ -1,0 +1,10 @@
+Alias: 新南沙车务
+password :yuexunruanjian
+
+baidumap:
+    key-debug: zEKwln4rZ7deNkHigeFav8FcdAM9xYhD
+    key-release: mdatgP7P2q3CGmqTWclDw8lLNTtZLkm2
+
+打包命令：
+    进入到 android 目录，执行：gradlew assembleRelease
+    生成的安装包在 android/app/build/outputs/apk/app-release.apk

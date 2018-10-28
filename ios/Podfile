@@ -1,0 +1,8 @@
+platform :ios,'8.0'
+target 'nscwApp' do
+pod 'AFNetworking'
+pod 'BaiduMapKit'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+end
+

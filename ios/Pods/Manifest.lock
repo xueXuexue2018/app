@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (3.4.4)
+  - IQKeyboardManager (6.0.2)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BaiduMapKit
+  - IQKeyboardManager
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - BaiduMapKit
+    - IQKeyboardManager
+    - Masonry
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  BaiduMapKit: 4ac88f5a363500760392825b69709f4a0125f81e
+  IQKeyboardManager: c49d59e358aeeffaa0280aa305093c2b194d2607
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: fd91a3b30580111c462cd68b2af8bb30e33e7372
+
+COCOAPODS: 1.5.0
